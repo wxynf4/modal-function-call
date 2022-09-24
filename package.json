@@ -1,0 +1,29 @@
+{
+  "name": "modal-function-call",
+  "version": "0.1.4",
+  "description": "基于Element Plus函数式调起组件弹窗",
+  "main": "./src/index.js",
+  "repository": "https://gitee.com/wxynf4/modal-function-call.git",
+  "author": "wxynf4 <wxynf4@qq.com>",
+  "type": "module",
+  "license": "MIT",
+  "keywords": [],
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "vue": "^3.2.13",
+    "element-plus": "^2.2.17",
+    "lodash-es": "^4.17.21"
+  },
+  "devDependencies": {
+    "@vue/cli-service": "~5.0.0"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead",
+    "not ie 11"
+  ]
+}
